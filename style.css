@@ -205,6 +205,10 @@ a{
   border-radius: 40px;
   color: #4B4B4B;
 }
+
+.content .inside-content a:hover{
+  background: gray;
+}
 .container3{
   margin: 0 auto;
   max-width: 1296px;
